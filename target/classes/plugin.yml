@@ -1,0 +1,11 @@
+name: SkyData
+author: EmreSaritas
+version: 1.0
+api-version: 1.16
+main: com.emre.skydata.DataMain
+
+commands:
+  skydata:
+    description: skydata
+    usage: /skydata
+

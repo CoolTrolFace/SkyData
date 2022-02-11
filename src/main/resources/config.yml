@@ -1,0 +1,15 @@
+
+
+menu-buttons:
+  sell-sort:
+    name: "&eSatış Miktarına Göre Sırala"
+    head-value: ""
+  buy-sort:
+    name: "&eAlış Miktarına Göre Sırala"
+    head-value: ""
+  next-page:
+    name: "&eSonraki Sayfa"
+    TYPE: ARROW
+  prev-page:
+    name: "&eÖnceki Sayfa"
+    TYPE: ARROW
